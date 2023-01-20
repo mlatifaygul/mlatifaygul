@@ -1,7 +1,5 @@
 ## I'm Mehmet Latif Aygul
 
-Developer Instructor [@Rocketseat](https://github.com/Rocketseat)
-
 I'm a _JavaScript_ Full-Stack Developer (Node.js, ReactJS).<br/>
 
 Here on my GitHub profile you can see all my projects.  
